@@ -19,36 +19,36 @@
     box-shadow:2px 1px 2px grey;
 }
 .div1{
-background-image: url(../ASSETS/IMAGES/Bike1.jpg);
+background-image: url(Bike1.jpg);
 background-size: cover;
 
 }
 .div2{
-    background-image:url(../ASSETS/IMAGES/Bike2.jpg);
+    background-image:url(Bike2.jpg);
     background-size: cover;
 
 }
 
 .div3{
-    background-image:url(../ASSETS/IMAGES/Bike3.jpg);
+    background-image:url(Bike3.jpg);
     background-size: cover;
 
 }
 
 .div4{
-    background-image:url(../ASSETS/IMAGES/Bike4.jpg);
+    background-image:url(Bike4.jpg);
     background-size: cover;
 
 }
 
 .div5{
-    background-image:url(../ASSETS/IMAGES/Bike5.jpg);
+    background-image:url(Bike5.jpg);
     background-size: cover;
 
 }
 
 .div6{
-    background-image:url(../ASSETS/IMAGES/bike6.jpg);
+    background-image:url(bike6.jpg);
     background-size: cover;
 
 }
